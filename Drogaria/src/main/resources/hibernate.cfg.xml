@@ -41,6 +41,7 @@
 		<mapping class="br.com.proj.drogaria.domain.Cliente"/>
 		<mapping class="br.com.proj.drogaria.domain.Estado"/>
 		<mapping class="br.com.proj.drogaria.domain.Fornecedor"/>
+		<mapping class="br.com.proj.drogaria.domain.Funcionario"/>
 		<mapping class="br.com.proj.drogaria.domain.Pessoa"/>
 		<mapping class="br.com.proj.drogaria.domain.Produto"/>
 		
